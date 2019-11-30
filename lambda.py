@@ -1,4 +1,5 @@
 # FUNCIONES ANÓNIMAS
+# Función lambda
 # Las funciones normales son definiodas con la palabra
 # clave def, mientras que las anónimas se crean con lambda
 # lambda x : x + 1  --> x(argumento): x + 1 (cuerpo de la función)
