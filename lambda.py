@@ -19,9 +19,9 @@ lista_f1 = list(map(mayores_a_2,lista))
 print(lista_f1) # imprime falsey true
 
 lista_f2 = list(filter(mayores_a_2,lista))
-print(lista_f2) # imprimira 3 ,4 ,5
+print(lista_f2) # imprime 3 ,4 ,5
 
 # Variable con función lambda para elevar a la 5
 
 potencia = lambda x:x**5
-print(potencia(3))#imprimira 243
+print(potencia(3))#imprime 243
